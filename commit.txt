@@ -5,3 +5,7 @@ success.
 Commit 2 -m
   Audio file commit of SR
 success.
+
+Commit 3 -m
+Image file commit of MG
+success.
