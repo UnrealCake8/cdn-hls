@@ -9,3 +9,7 @@ success.
 Commit 3 -m
 Image file commit of MG
 success.
+
+Commit 3 -m
+Image file commit of MPlace
+success.
